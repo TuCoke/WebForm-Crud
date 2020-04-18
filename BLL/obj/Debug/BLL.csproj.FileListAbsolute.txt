@@ -1,0 +1,11 @@
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\BLL.dll
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\BLL.pdb
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\DAL.dll
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\Model.dll
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\DAL.pdb
+D:\2020-Visual-Studio-Demo\Music\BLL\bin\Debug\Model.pdb
+D:\2020-Visual-Studio-Demo\Music\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\2020-Visual-Studio-Demo\Music\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\2020-Visual-Studio-Demo\Music\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\2020-Visual-Studio-Demo\Music\BLL\obj\Debug\BLL.dll
+D:\2020-Visual-Studio-Demo\Music\BLL\obj\Debug\BLL.pdb

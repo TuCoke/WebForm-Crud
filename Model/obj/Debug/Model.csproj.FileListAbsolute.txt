@@ -1,0 +1,6 @@
+D:\2020-Visual-Studio-Demo\Music\Model\bin\Debug\Model.dll
+D:\2020-Visual-Studio-Demo\Music\Model\bin\Debug\Model.pdb
+D:\2020-Visual-Studio-Demo\Music\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\2020-Visual-Studio-Demo\Music\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\2020-Visual-Studio-Demo\Music\Model\obj\Debug\Model.dll
+D:\2020-Visual-Studio-Demo\Music\Model\obj\Debug\Model.pdb
